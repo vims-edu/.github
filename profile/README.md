@@ -8,6 +8,7 @@ The Virginia Institute of Marine Science (VIMS) has a three-part mission to cond
 ### Graduate Education
 The [School of Marine Science (SMS)](https://vims.edu/education/graduate/index.php) at VIMS is the graduate school in marine science for [William & Mary](http://www.wm.edu/). It offers outstanding education and research opportunities for students who seek advanced careers in academia, government, or the private sector.
 <hr>
+
 ## VIMS Resources on Github
 
 ### Center for Coastal Resources Management [website](https://www.vims.edu/ccrm)
