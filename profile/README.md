@@ -4,8 +4,8 @@ Here is a listing of our current organizations:
 
 ## Center for Coastal Resources Management
 CCRM’s goal is to foster decision-making among citizens and elected officials that leads to a sustainable and resilient coastal Virginia.<BR>
-**Github Repositories: https://github.com/vims-ccrm/**<BR>
-**Website: https://www.vims.edu/ccrm**
+| Github         | https://github.com/vims-ccrm             |
+| Website        | https://www.vims.edu/ccrm                |
 
 ## Coastal and Estuarine Ecology Lab
 The Coastal and Estuarine Ecology Lab (CEEL) is a collection of scientists that study aquatic ecology, community ecology, and spatial ecology in the Biological Sciences Department at the Virginia Institute of Marine Science, William & Mary. <BR>
