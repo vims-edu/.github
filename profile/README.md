@@ -1,7 +1,7 @@
 # Welcome to the [Virginia Institute of Marine Science](https://vims.edu/). 
 <hr>
 
-## [About VIMS](https://vims.edu/about/)
+## About VIMS
 ### Science for the Bay, Impact for the World
 
 The Virginia Institute of Marine Science (VIMS) has a three-part mission to conduct research in coastal ocean and estuarine science, educate students and citizens, and provide advisory service to policy makers, industry, and the public. VIMS provides these services to Virginia, the nation, and the world. Chartered in 1940, VIMS is currently among the largest marine research and education centers in the United States.
