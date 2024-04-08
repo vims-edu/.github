@@ -1,6 +1,5 @@
 # Welcome to the Virginia Institute of Marine Science. 
-
-Here is a listing of our current organizations:
+<hr/>
 
 ## Center for Coastal Resources Management
 CCRM’s goal is to foster decision-making among citizens and elected officials that leads to a sustainable and resilient coastal Virginia.<BR>
