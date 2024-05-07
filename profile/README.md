@@ -30,4 +30,4 @@ Github Repository: https://github.com/vaseagrant/
 
 <hr>
 
-
+Are you part of VIMS and need some help getting started? We have a [wiki](https://github.com/vims-edu/.github/wiki) put together just for you!
