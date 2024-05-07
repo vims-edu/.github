@@ -24,6 +24,10 @@ Github Repository: https://github.com/vims-ceel/
 ### [Andrew Sheld Research Lab](https://www.vims.edu/about/directory/faculty/scheld_a.php)
 Github Repository: https://github.com/vims-scheld/
 
+### [Virginia Sea Grant](https://www.seagrant.org)
+VA Sea Grant is a seven-university partnership combining the resources of Virginia’s top institutions and using them to find innovative solutions to marine and coastal challenges faced by the Commonwealth. Together we work to improve coastal ecosystems, coastal communities, and working waterfronts by financially supporting researchers, graduate fellows, extension members, and interns. <BR>
+Github Repository: https://github.com/vaseagrant/
+
 <hr>
 
 
