@@ -21,7 +21,7 @@ Github Repository: https://github.com/vims-ccrm/
 The Coastal and Estuarine Ecology Lab (CEEL) is a collection of scientists that study aquatic ecology, community ecology, and spatial ecology in the Biological Sciences Department at the Virginia Institute of Marine Science, William & Mary. <BR>
 Github Repository: https://github.com/vims-ceel/
 
-### [Andrew Sheld Research Lab](https://www.vims.edu/about/directory/faculty/scheld_a.php)
+### [Andrew Scheld Research Lab](https://www.vims.edu/about/directory/faculty/scheld_a.php)
 Github Repository: https://github.com/vims-scheld/
 
 ### [Virginia Sea Grant](https://www.seagrant.org)
