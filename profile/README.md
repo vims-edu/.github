@@ -28,6 +28,10 @@ Github Repository: https://github.com/vims-scheld/
 VA Sea Grant is a seven-university partnership combining the resources of Virginia’s top institutions and using them to find innovative solutions to marine and coastal challenges faced by the Commonwealth. Together we work to improve coastal ecosystems, coastal communities, and working waterfronts by financially supporting researchers, graduate fellows, extension members, and interns. <BR>
 Github Repository: https://github.com/vaseagrant/
 
+### [Laboratory for Ocean Sensing](https://www.oceansensing.org)
+The Laboratory for Ocean Sensing (LOS) and the Coastal & Polar Physical Oceanography (C2PO) Lab at the Virginia Institute of Marine Science — William & Mary are led by Dr. Donglai Gong. The C2PO lab focuses on oceanographic research and education and the LOS focuses on operational efforts and technology developments. Some of the lab's research areas include polar ocean dynamics, coastal ocean circulation, submarine canyons, and ocean transport and mixing.<BR>
+Github Repository: https://github.com/ocean-sensing/
+
 <hr>
 
 Are you part of VIMS and need some help getting started? We have a [wiki](https://github.com/vims-edu/.github/wiki) put together just for you!
