@@ -4,10 +4,10 @@
 ## About VIMS
 ### Science for the Bay, Impact for the World
 
-The Virginia Institute of Marine Science (VIMS) has a three-part mission to conduct research in coastal ocean and estuarine science, educate students and citizens, and provide advisory service to policy makers, industry, and the public. VIMS provides these services to Virginia, the nation, and the world. Chartered in 1940, VIMS is currently among the largest marine research and education centers in the United States.
+William & Mary’s Batten School & VIMS are unique among coastal and marine science institutions. As a state agency, VIMS has a legal mandate to provide research, education and advisory service to government, citizens and industry. In the Batten School, graduate students have an unparalleled opportunity to conduct research that matters. Research at the Batten School of Coastal & Marine Sciences & VIMS extends from inland watersheds to the open ocean, with an emphasis on coastal and estuarine science.
 
 ### Graduate Education
-The [School of Marine Science (SMS)](https://vims.edu/education/graduate/index.php) at VIMS is the graduate school in marine science for [William & Mary](http://www.wm.edu/). It offers outstanding education and research opportunities for students who seek advanced careers in academia, government, or the private sector.
+The [Batten School of Coastal & Marine Science](https://www.vims.edu/academics/) at VIMS is the graduate school in marine science for [William & Mary](http://www.wm.edu/). William & Mary's Batten School & VIMS are among the nation's largest and most prestigious centers for coastal and marine research and education. We are committed to developing undergraduate and graduate students who have the academic and professional skills necessary to meet the present and future needs of science and society.
 <hr>
 
 ## VIMS Resources on Github
