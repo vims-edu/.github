@@ -16,7 +16,6 @@ The [School of Marine Science (SMS)](https://vims.edu/education/graduate/index.p
 CCRM’s goal is to foster decision-making among citizens and elected officials that leads to a sustainable and resilient coastal Virginia.<BR>
 Github Repository: https://github.com/vims-ccrm/
 
-
 ### [Coastal and Estuarine Ecology Lab](https://www.vims.edu/research/units/labgroups/ceel/)
 The Coastal and Estuarine Ecology Lab (CEEL) is a collection of scientists that study aquatic ecology, community ecology, and spatial ecology in the Biological Sciences Department at the Virginia Institute of Marine Science, William & Mary. <BR>
 Github Repository: https://github.com/vims-ceel/
@@ -31,6 +30,10 @@ Github Repository: https://github.com/vaseagrant/
 ### [Laboratory for Ocean Sensing](https://www.oceansensing.org)
 The Laboratory for Ocean Sensing (LOS) and the Coastal & Polar Physical Oceanography (C2PO) Lab at the Virginia Institute of Marine Science — William & Mary are led by Dr. Donglai Gong. The C2PO lab focuses on oceanographic research and education and the LOS focuses on operational efforts and technology developments. Some of the lab's research areas include polar ocean dynamics, coastal ocean circulation, submarine canyons, and ocean transport and mixing.<BR>
 Github Repository: https://github.com/ocean-sensing/
+
+### [Commercial Shellfish Aquaculture Lab & Team](https://www.vims.edu/research/units/labgroups/csalt/)
+Our lab team, run by Dr. Bill Walton, is dedicated to the VIMS’ Shellfish Aquaculture Program mission to advance and support a thriving sustainable shellfish aquaculture community in Virginia and the United States, through globally relevant shellfish aquaculture science, outreach and education. To contribute to this mission, our team strives to achieve three integrated research goals, while also working to develop highly capable individuals skilled in and knowledgeable about shellfish aquaculture production. <BR>
+Github Repository: https://github.com/vims-csalt/
 
 <hr>
 
