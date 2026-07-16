@@ -42,4 +42,4 @@ Github Repository: https://github.com/vims-csalt/
 
 <hr>
 
-Are you part of VIMS and need some help getting started? We have a [wiki](https://github.com/vims-edu/.github/wiki) put together just for you!
+Are you part of William & Mary's VIMS & Batten School and need some help getting started? We have a [wiki](https://github.com/vims-edu/.github/wiki) put together just for you!
