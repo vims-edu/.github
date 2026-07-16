@@ -5,7 +5,6 @@
 
 # Welcome to the [Virginia Institute of Marine Science](https://vims.edu/). 
 
-<hr>
 
 ## About VIMS
 ### Science for the Bay, Impact for the World
