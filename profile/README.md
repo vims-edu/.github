@@ -3,13 +3,13 @@
 
 <hr>
 
-# Welcome to the [Virginia Institute of Marine Science](https://vims.edu/). 
+# Welcome to William & Mary's [Virginia Institute of Marine Science & Batten School](https://vims.edu/). 
 
 
 ## About VIMS
 ### Science for the Bay, Impact for the World
 
-William & Mary’s Batten School & VIMS are unique among coastal and marine science institutions. As a state agency, VIMS has a legal mandate to provide research, education and advisory service to government, citizens and industry. In the Batten School, graduate students have an unparalleled opportunity to conduct research that matters. Research at the Batten School of Coastal & Marine Sciences & VIMS extends from inland watersheds to the open ocean, with an emphasis on coastal and estuarine science.
+William & Mary’s VIMS & Batten School for Coastal & Marine Schience are unique among coastal and marine science institutions. As a state agency, VIMS has a legal mandate to provide research, education and advisory service to government, citizens and industry. In the Batten School, graduate students have an unparalleled opportunity to conduct research that matters. Research at the Batten School of Coastal & Marine Sciences & VIMS extends from inland watersheds to the open ocean, with an emphasis on coastal and estuarine science.
 
 ### Graduate Education
 The [Batten School of Coastal & Marine Science](https://www.vims.edu/academics/) at VIMS is the graduate school in marine science for [William & Mary](http://www.wm.edu/). William & Mary's Batten School & VIMS are among the nation's largest and most prestigious centers for coastal and marine research and education. We are committed to developing undergraduate and graduate students who have the academic and professional skills necessary to meet the present and future needs of science and society.
