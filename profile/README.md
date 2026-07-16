@@ -3,7 +3,7 @@
 
 <hr>
 
-# Welcome to William & Mary's [Virginia Institute of Marine Science & Batten School](https://vims.edu/). 
+# Welcome to the [Virginia Institute of Marine Science & Batten School](https://vims.edu/). 
 
 
 ## About VIMS
