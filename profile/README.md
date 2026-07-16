@@ -1,7 +1,10 @@
 ![Logo for dark mode](VIMS-BATTEN-LOGO_White.png#gh-dark-mode-only)
 ![Logo for light mode](VIMS-BATTEN-LOGO.png#gh-light-mode-only)
 
+<hr>
+
 # Welcome to the [Virginia Institute of Marine Science](https://vims.edu/). 
+
 <hr>
 
 ## About VIMS
